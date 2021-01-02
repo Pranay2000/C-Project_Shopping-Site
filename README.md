@@ -10,22 +10,3 @@ This is a small scale project for Online Shopping System implemented on Code Blo
 
 --------------------
 ## OUTPUTS:
-![Alt text](https://github.com/Pranay2000/C-Project_Shopping-Site/blob/master/SS/1.PNG)
-![Alt text](https://github.com/Pranay2000/C-Project_Shopping-Site/blob/master/SS/2.PNG)
-<img src="https://github.com/Pranay2000/C-Project_Shopping-Site/blob/master/SS/3.PNG" width="650" height="350" align="center" />
-
----------------------------
-## CUSTOMER LOGIN:
-![Alt text](https://github.com/Pranay2000/C-Project_Shopping-Site/blob/master/SS/4.PNG) <br><br><br>
-<img src="https://github.com/Pranay2000/C-Project_Shopping-Site/blob/master/SS/5.PNG" width="650" height="350" align="center" /> <br><br><br>
-<img src="https://github.com/Pranay2000/C-Project_Shopping-Site/blob/master/SS/6.PNG" width="650" height="350" align="center" /> <br><br><br>
-
----------------------------
-### SHOPPING CART
-![Alt text](https://github.com/Pranay2000/C-Project_Shopping-Site/blob/master/SS/7.PNG)
-
-### LOGOUT
-![Alt text](https://github.com/Pranay2000/C-Project_Shopping-Site/blob/master/SS/8.PNG)
-
---------------------------
-## ADMIN LOGIN:
