@@ -10,3 +10,23 @@ This is a small scale project for Online Shopping System implemented on Code Blo
 
 --------------------
 ## OUTPUTS:
+
+1. <b>CUSTOMER LOGIN: </b>
+<img src = "https://github.com/Pranay2000/C-Project_Shopping-Site/blob/master/SS/Main%20Page.PNG" align="center" height=300 width=650/>
+<img src = "https://github.com/Pranay2000/C-Project_Shopping-Site/blob/master/SS/Customer_Login/2.PNG" align="center" height=300 width=950 />
+<img src = "https://github.com/Pranay2000/C-Project_Shopping-Site/blob/master/SS/Customer_Login/3.PNG" align="center" height=300 width=750 />
+<img src = "https://github.com/Pranay2000/C-Project_Shopping-Site/blob/master/SS/Customer_Login/4.PNG" align="center" height=300 width=750 />
+<img src = "https://github.com/Pranay2000/C-Project_Shopping-Site/blob/master/SS/Customer_Login/5.PNG" align="center" />
+<img src = "https://github.com/Pranay2000/C-Project_Shopping-Site/blob/master/SS/Customer_Login/7.PNG" align="center" height=300 width=750 />
+<img src = "https://github.com/Pranay2000/C-Project_Shopping-Site/blob/master/SS/Customer_Login/8.PNG" align="center" height=300 width=750 />
+
+------------------
+2. <b>ADMIN LOGIN: </b>
+<img src = "https://github.com/Pranay2000/C-Project_Shopping-Site/blob/master/SS/Admin_login/1.PNG" align="center" height=300 width=650/>
+<img src = "https://github.com/Pranay2000/C-Project_Shopping-Site/blob/master/SS/Admin_login/2.PNG" align="center" />
+<img src = "https://github.com/Pranay2000/C-Project_Shopping-Site/blob/master/SS/Admin_login/3.PNG" align="center" />
+<img src = "https://github.com/Pranay2000/C-Project_Shopping-Site/blob/master/SS/Admin_login/4.PNG" align="center" />
+<img src = "https://github.com/Pranay2000/C-Project_Shopping-Site/blob/master/SS/Admin_login/6.PNG" align="center" />
+<img src = "https://github.com/Pranay2000/C-Project_Shopping-Site/blob/master/SS/Admin_login/8.PNG" align="center" />
+<img src = "https://github.com/Pranay2000/C-Project_Shopping-Site/blob/master/SS/Admin_login/9.PNG" align="center" />
+<img src = "https://github.com/Pranay2000/C-Project_Shopping-Site/blob/master/SS/Admin_login/10.PNG" align="center" />
